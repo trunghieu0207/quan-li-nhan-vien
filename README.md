@@ -4,4 +4,4 @@
 ## Các bước thực hiện
 ## Hướng dẫn cài đặt
 1. Clone repository
-2. Chạy lệnh ...
+2. Chạy lệnh `npm install`
